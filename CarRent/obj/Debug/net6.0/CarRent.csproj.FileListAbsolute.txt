@@ -1,0 +1,14 @@
+C:\Users\mac\Documents\projetos\CarRent\CarRent\bin\Debug\net6.0\CarRent.exe
+C:\Users\mac\Documents\projetos\CarRent\CarRent\bin\Debug\net6.0\CarRent.deps.json
+C:\Users\mac\Documents\projetos\CarRent\CarRent\bin\Debug\net6.0\CarRent.runtimeconfig.json
+C:\Users\mac\Documents\projetos\CarRent\CarRent\bin\Debug\net6.0\CarRent.dll
+C:\Users\mac\Documents\projetos\CarRent\CarRent\bin\Debug\net6.0\CarRent.pdb
+C:\Users\mac\Documents\projetos\CarRent\CarRent\obj\Debug\net6.0\CarRent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mac\Documents\projetos\CarRent\CarRent\obj\Debug\net6.0\CarRent.AssemblyInfoInputs.cache
+C:\Users\mac\Documents\projetos\CarRent\CarRent\obj\Debug\net6.0\CarRent.AssemblyInfo.cs
+C:\Users\mac\Documents\projetos\CarRent\CarRent\obj\Debug\net6.0\CarRent.csproj.CoreCompileInputs.cache
+C:\Users\mac\Documents\projetos\CarRent\CarRent\obj\Debug\net6.0\CarRent.dll
+C:\Users\mac\Documents\projetos\CarRent\CarRent\obj\Debug\net6.0\refint\CarRent.dll
+C:\Users\mac\Documents\projetos\CarRent\CarRent\obj\Debug\net6.0\CarRent.pdb
+C:\Users\mac\Documents\projetos\CarRent\CarRent\obj\Debug\net6.0\CarRent.genruntimeconfig.cache
+C:\Users\mac\Documents\projetos\CarRent\CarRent\obj\Debug\net6.0\ref\CarRent.dll
