@@ -28,8 +28,8 @@ namespace CarRent
             Console.Write("Enter price per day: ");
             double priceDay = double.Parse(Console.ReadLine());
 
-            RentalService rentalService = new RentalService(priceHour, priceDay);
-           rentalService.ProcessInvoice(carRental);
+            RentalService rentalService = new RentalService(priceHour, priceDay, new BrazilTaxService());
+            rentalService.ProcessInvoice(carRental);
 
             Console.WriteLine("INVOICE: ");
             Console.WriteLine(carRental.Invoice);
